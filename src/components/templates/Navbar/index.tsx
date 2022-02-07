@@ -15,6 +15,7 @@ const index = ({ displayFilters }) => {
     <>
       <Head>
         <meta name="viewport" content="initial-scale=1.0, width=device-width" />
+        <title>MOVIfy</title>
       </Head>
       <Nav>
         <Link href="/">
