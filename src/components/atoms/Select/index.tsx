@@ -28,9 +28,9 @@ const index: React.FC<SelectProps> = ({ title, values, onChange }) => {
       <option value="" hidden>
         {title}
       </option>
-      {values?.map((value) => {
+      {values?.map((value, index) => {
         return (
-          <option value={title !== "category" ? value?.[title] : value}>{`${
+          <option key={index} value={title !== "category" ? value?.[title] : value}>{`${
             title !== "category" ? value?.[title] : value
           }`}</option>
         );
