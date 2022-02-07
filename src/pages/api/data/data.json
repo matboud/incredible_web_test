@@ -1,0 +1,278 @@
+[
+  {
+    "id": 0,
+    "title": "Peace Maker",
+    "year": 1995,
+    "rating": 6,
+    "description": "Thomas Devoe, a US Army colonel, and Julia Kelly, a nuclear expert, frantically search for a set of Russian nuclear weapons believed to be stolen by Chechen terrorists.",
+    "cover": "/movies/peace_maker.jpeg",
+    "categories": [
+      "action",
+      "science",
+      "romance",
+      "desert"
+    ],
+    "video": "https://www.youtube.com/embed/4haJD6W136c"
+  },
+  {
+    "id": 1,
+    "title": "Peaky Blinders",
+    "year": 2013,
+    "rating": 9,
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Harum corrupti fuga sunt saepe error, itaque nobis ratione perferendis iusto doloribus eaque, est consequuntur voluptas eos mollitia.",
+    "cover": "/movies/peaky_blinders.jpeg",
+    "categories": [
+      "action",
+      "drama"
+    ],
+    "video": "https://www.youtube.com/embed/4haJD6W136c"
+  },
+  {
+    "id": 2,
+    "title": "Lucifer",
+    "year": 2016,
+    "rating": 7,
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Harum corrupti fuga sunt saepe error, itaque nobis ratione perferendis iusto doloribus eaque, est consequuntur voluptas eos mollitia.",
+    "cover": "/movies/lucifer.jpeg",
+    "categories": [
+      "action",
+      "drama",
+      "mystery"
+    ],
+    "video": "https://www.youtube.com/embed/4haJD6W136c"
+  },
+  {
+    "id": 3,
+    "title": "Oscuro Deseo",
+    "year": 2015,
+    "rating": 4,
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Harum corrupti fuga sunt saepe error, itaque nobis ratione perferendis iusto doloribus eaque, est consequuntur voluptas eos mollitia.",
+    "cover": "/movies/oscuro_deseo.jpeg",
+    "categories": [
+      "horror"
+    ],
+    "video": "https://www.youtube.com/embed/4haJD6W136c"
+  },
+  {
+    "id": 4,
+    "title": "Greys Anatomy",
+    "year": 2017,
+    "rating": 6,
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Harum corrupti fuga sunt saepe error, itaque nobis ratione perferendis iusto doloribus eaque, est consequuntur voluptas eos mollitia.",
+    "cover": "/movies/greys_anatomy.jpeg",
+    "categories": [
+      "action",
+      "fantasy"
+    ],
+    "video": "https://www.youtube.com/embed/4haJD6W136c"
+  },
+  {
+    "id": 5,
+    "title": "The Flash",
+    "year": 2013,
+    "rating": 8,
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Harum corrupti fuga sunt saepe error, itaque nobis ratione perferendis iusto doloribus eaque, est consequuntur voluptas eos mollitia.",
+    "cover": "/movies/the_flash.jpeg",
+    "categories": [
+      "western",
+      "drama"
+    ],
+    "video": "https://www.youtube.com/embed/4haJD6W136c"
+  },
+  {
+    "id": 6,
+    "title": "The Walking Dead",
+    "year": 2012,
+    "rating": 9,
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Harum corrupti fuga sunt saepe error, itaque nobis ratione perferendis iusto doloribus eaque, est consequuntur voluptas eos mollitia.",
+    "cover": "/movies/twd.jpeg",
+    "categories": [
+      "action",
+      "drama"
+    ],
+    "video": "https://www.youtube.com/embed/4haJD6W136c"
+  },
+  {
+    "id": 7,
+    "title": "Game Of Throns",
+    "year": 2008,
+    "rating": 9,
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Harum corrupti fuga sunt saepe error, itaque nobis ratione perferendis iusto doloribus eaque, est consequuntur voluptas eos mollitia.",
+    "cover": "/movies/got.jpeg",
+    "categories": [
+      "thriller"
+    ],
+    "video": "https://www.youtube.com/embed/4haJD6W136c"
+  },
+  {
+    "id": 8,
+    "title": "Chucky",
+    "year": 2001,
+    "rating": 5,
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Harum corrupti fuga sunt saepe error, itaque nobis ratione perferendis iusto doloribus eaque, est consequuntur voluptas eos mollitia.",
+    "cover": "/movies/chucky.jpeg",
+    "categories": [
+      "thriller",
+      "horror"
+    ],
+    "video": "https://www.youtube.com/embed/4haJD6W136c"
+  },
+  {
+    "id": 9,
+    "title": "The Good Doctor",
+    "year": 2008,
+    "rating": 9,
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Harum corrupti fuga sunt saepe error, itaque nobis ratione perferendis iusto doloribus eaque, est consequuntur voluptas eos mollitia.",
+    "cover": "/movies/good_doctor.jpeg",
+    "categories": [
+      "action",
+      "fantasy"
+    ],
+    "video": "https://www.youtube.com/embed/4haJD6W136c"
+  },
+  {
+    "id": 10,
+    "title": "Vikings",
+    "year": 2012,
+    "rating": 8,
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Harum corrupti fuga sunt saepe error, itaque nobis ratione perferendis iusto doloribus eaque, est consequuntur voluptas eos mollitia.",
+    "cover": "/movies/vikings.jpeg",
+    "categories": [
+      "thriller",
+      "romance"
+    ],
+    "video": "https://www.youtube.com/embed/4haJD6W136c"
+  },
+  {
+    "id": 11,
+    "title": "Yellow Jackets",
+    "year": 2007,
+    "rating": 6,
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Harum corrupti fuga sunt saepe error, itaque nobis ratione perferendis iusto doloribus eaque, est consequuntur voluptas eos mollitia.",
+    "cover": "/movies/yellow_jackets.jpeg",
+    "categories": [
+      "fantasy",
+      "drama",
+      "thriller"
+    ],
+    "video": "https://www.youtube.com/embed/4haJD6W136c"
+  },
+  {
+    "id": 12,
+    "title": "The Mentalist",
+    "year": 2005,
+    "rating": 9,
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Harum corrupti fuga sunt saepe error, itaque nobis ratione perferendis iusto doloribus eaque, est consequuntur voluptas eos mollitia.",
+    "cover": "/movies/mentalist.jpeg",
+    "categories": [
+      "drama"
+    ],
+    "video": "https://www.youtube.com/embed/4haJD6W136c"
+  },
+  {
+    "id": 13,
+    "title": "Hellbound",
+    "year": 2005,
+    "rating": 5,
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Harum corrupti fuga sunt saepe error, itaque nobis ratione perferendis iusto doloribus eaque, est consequuntur voluptas eos mollitia.",
+    "cover": "/movies/hellbound.jpeg",
+    "categories": [
+      "horror",
+      "comedy"
+    ],
+    "video": "https://www.youtube.com/embed/4haJD6W136c"
+  },
+  {
+    "id": 14,
+    "title": "Breaking Bad",
+    "year": 2009,
+    "rating": 8,
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Harum corrupti fuga sunt saepe error, itaque nobis ratione perferendis iusto doloribus eaque, est consequuntur voluptas eos mollitia.",
+    "cover": "/movies/breaking_bad.jpeg",
+    "categories": [
+      "thriller",
+      "drama",
+      "action"
+    ],
+    "video": "https://www.youtube.com/embed/4haJD6W136c"
+  },
+  {
+    "id": 15,
+    "title": "Yellow Stone",
+    "year": 2018,
+    "rating": 7,
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Harum corrupti fuga sunt saepe error, itaque nobis ratione perferendis iusto doloribus eaque, est consequuntur voluptas eos mollitia.",
+    "cover": "/movies/yellow_stone.jpeg",
+    "categories": [
+      "mystery",
+      "drama"
+    ],
+    "video": "https://www.youtube.com/embed/4haJD6W136c"
+  },
+  {
+    "id": 16,
+    "title": "La Brea",
+    "year": 2020,
+    "rating": 7,
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Harum corrupti fuga sunt saepe error, itaque nobis ratione perferendis iusto doloribus eaque, est consequuntur voluptas eos mollitia.",
+    "cover": "/movies/la_brea.jpeg",
+    "categories": [
+      "action"
+    ],
+    "video": "https://www.youtube.com/embed/4haJD6W136c"
+  },
+  {
+    "id": 17,
+    "title": "Elite",
+    "year": 2021,
+    "rating": 8,
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Harum corrupti fuga sunt saepe error, itaque nobis ratione perferendis iusto doloribus eaque, est consequuntur voluptas eos mollitia.",
+    "cover": "/movies/elite.jpeg",
+    "categories": [
+      "mystery",
+      "science",
+      "drama"
+    ],
+    "video": "https://www.youtube.com/embed/4haJD6W136c"
+  },
+  {
+    "id": 18,
+    "title": "The 100",
+    "year": 2020,
+    "rating": 8,
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Harum corrupti fuga sunt saepe error, itaque nobis ratione perferendis iusto doloribus eaque, est consequuntur voluptas eos mollitia.",
+    "cover": "/movies/the_100.jpeg",
+    "categories": [
+      "fantasy",
+      "action",
+      "drama",
+      "romance"
+    ],
+    "video": "https://www.youtube.com/embed/4haJD6W136c"
+  },
+  {
+    "id": 19,
+    "title": "Arrow",
+    "year": 2020,
+    "rating": 6,
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Harum corrupti fuga sunt saepe error, itaque nobis ratione perferendis iusto doloribus eaque, est consequuntur voluptas eos mollitia.",
+    "cover": "/movies/arrow.jpeg",
+    "categories": [
+      "action",
+      "comedy"
+    ],
+    "video": "https://www.youtube.com/embed/4haJD6W136c"
+  },
+  {
+    "id": 20,
+    "title": "Swat",
+    "year": 2018,
+    "rating": 5,
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Harum corrupti fuga sunt saepe error, itaque nobis ratione perferendis iusto doloribus eaque, est consequuntur voluptas eos mollitia.",
+    "cover": "/movies/swat.jpeg",
+    "categories": [
+      "action"
+    ],
+    "video": "https://www.youtube.com/embed/4haJD6W136c"
+  }
+]
