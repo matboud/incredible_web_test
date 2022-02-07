@@ -1,6 +1,6 @@
 import styled from "styled-components";
 
-export const MenuLink = styled.a`
+export const MenuLink = styled.div`
   padding: 1rem 2rem;
   margin: 0.4rem;
   cursor: pointer;
@@ -32,7 +32,7 @@ export const Nav = styled.div`
   z-index: 2;
 `;
 
-export const Logo = styled.a`
+export const Logo = styled.div`
   padding: 1rem 0;
   color: ${({ theme }) => theme.colors.yellow[500]};;
   text-decoration: none;

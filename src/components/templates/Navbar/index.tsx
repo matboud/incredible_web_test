@@ -25,7 +25,7 @@ const index = ({ displayFilters }) => {
       </Head>
       <Nav>
         <Link href="/">
-          <Logo href="">
+          <Logo>
             MOVI<span>fy</span>
           </Logo>
         </Link>
